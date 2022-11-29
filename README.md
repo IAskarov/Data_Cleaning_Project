@@ -1,3 +1,3 @@
-# Data_Cleaning_Project
+# Data cleaning project
 
 Проект о очистки данных о квартирах в Москве и Московской области
